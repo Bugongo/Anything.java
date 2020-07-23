@@ -23,7 +23,7 @@ public class AnythingJava {
  
    System.out.println("The hypothesis is"+Math.hypot(side1,side2));
    
-    
+    System.out.println("mambo yente");
         
 
     }
